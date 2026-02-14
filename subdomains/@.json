@@ -1,0 +1,12 @@
+{
+    "owner": {
+        "username": "trollmeight",
+        "email": "admin@trollmeight.me"
+    },
+
+    "records": {
+        "A": ["57.131.32.148"]
+    },
+
+    "proxied": false
+}
