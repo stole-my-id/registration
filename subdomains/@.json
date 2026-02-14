@@ -5,8 +5,8 @@
     },
 
     "records": {
-        "A": ["57.131.32.148"]
-        "MX": ["zoho-verification=zb39201391.zmverify.zoho.com"],
+        "A": ["57.131.32.148"],
+        "TXT": ["zoho-verification=zb39201391.zmverify.zoho.com"]
     },
 
     "proxied": false
